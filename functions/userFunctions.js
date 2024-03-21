@@ -1,4 +1,4 @@
-const User = require("../dbSchemas/user");
+const User = require("../db_schemas/user");
 
 // TODO: implement validation
 const validateUserName = (username) => {};
